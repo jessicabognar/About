@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+  h1 {
+    text-size-adjust: 100px;
+  }
+}
+a {
+  text-align: center;
+}
